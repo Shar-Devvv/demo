@@ -1,3 +1,3 @@
 # demo
-This is amy first git repositry
+This is my first git repositry
 Author-Aditya Sharma
